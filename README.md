@@ -1,8 +1,8 @@
 # 🕗 Bucador de informações github
 Um belo e simples buscador de usuário📁<br/>
 
-<img width='70%' src="./assets/.png"/>
-<img width='70%' src="./assets/searchsucessfull.png"/>
+<img width='70%' src="./assets/usernotfound.png"/>
+<img width='70%' src="./assets/searchsucessful.png"/>
 
 
 ## 🛠️ Construído com:
